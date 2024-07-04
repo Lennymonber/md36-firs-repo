@@ -1,1 +1,1 @@
-Querido diario, estoy aprendiendo a usar Git
+Estoy aprendiendo a usar Git
