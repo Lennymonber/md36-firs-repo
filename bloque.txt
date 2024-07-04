@@ -1,0 +1,36 @@
+Git
+
+agregar nombre y correo a git
+   git config --global user.name "Yorleny Montilla Bermudez"
+   git config --global user.email yorlenymb0203@gmail.cambios
+
+crear repositorio
+   git init
+
+ver status del repositorio
+   git status
+
+añadir archivos / guardar cambios
+   git add nombre del archivo ( para agregar archivo especifico)
+   git add -A (agregar todos los archivos de una vez)
+
+crear version
+   git commit -m ""
+visualizar las versiones
+   git log
+
+ls: permite ver las carpetas que hay en el lugar donde estoy
+
+cd: me permite acceder a una carpeta
+
+
+
+
+GitHub
+
+crear mi cuenta de GitHub
+conectar repositorio al repositorio en linea
+   git remote add origin link del repositorio virtual
+
+meter documentos al repositorio virtual
+   git push origin master
